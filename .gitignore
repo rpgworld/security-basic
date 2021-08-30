@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### DB Config ###
+# ignore properties file
+application.yml
